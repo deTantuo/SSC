@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PersonService", "PersonService", "{413D50C1-AE1F-4895-98F5-4D3C0AE09605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApi", "PersonApi\PersonApi.csproj", "{5C03F0C3-AF4C-44DE-BBC7-4D8129025BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C03F0C3-AF4C-44DE-BBC7-4D8129025BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C03F0C3-AF4C-44DE-BBC7-4D8129025BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C03F0C3-AF4C-44DE-BBC7-4D8129025BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C03F0C3-AF4C-44DE-BBC7-4D8129025BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C03F0C3-AF4C-44DE-BBC7-4D8129025BAF} = {413D50C1-AE1F-4895-98F5-4D3C0AE09605}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67E3808-20EB-4445-8BB6-70B7A1CAEF0B}
+	EndGlobalSection
+EndGlobal

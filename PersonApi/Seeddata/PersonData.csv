@@ -1,0 +1,5 @@
+﻿name,birthDate,state,city,streetAddress,postalCode,isDeleted
+John Doe,1/20/1990,PA,Pittsburgh,123 Water Street,12558,false
+Walter Reed,1/20/1992,PA,Pittsburgh,124 Water Street,12558,false
+James Cooper,1/20/1994,PA,Pittsburgh,125 Water Street,12558,false
+Mad Dog,1/20/1997,PA,Pittsburgh,126 Water Street,12558,false
